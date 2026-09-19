@@ -78,7 +78,6 @@ Console Output:
  Hotkeys:
    [Ctrl + Alt + 1] -> Clean & Format Notes
    [Ctrl + Alt + 2] -> Code Formatter & Debugger
-   [Ctrl + Alt + 3] -> Executive TL;DR Summary
    [Esc]            -> Terminate Daemon
 =======================================================
 ```
@@ -117,6 +116,4 @@ python tests/test_daemon.py
 
 ---
 
-## Attribution
 
-Developed for the **Snapdragon® AI Lab Build & Present Challenge**.
