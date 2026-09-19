@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ghost-notes"
+version = "0.1.0"
+description = "NPU-Accelerated Smart Transformer Daemon for Snapdragon-Powered HP PCs"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+    {name = "Abhinav"}
+]
+dependencies = [
+    "pyperclip>=1.8.2",
+    "keyboard>=0.13.5",
+    "onnxruntime>=1.17.0"
+]
+
+[project.scripts]
+ghost-notes = "main:main"
