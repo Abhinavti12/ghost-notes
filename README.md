@@ -19,7 +19,6 @@ Everyday PC productivity suffers from cognitive fragmentation: professionals, st
 | :--- | :--- | :--- |
 | `Ctrl + Alt + 1` | **Clean Notes** | Cleans typos, fixes grammar, and formats input into clean Markdown bullet points. |
 | `Ctrl + Alt + 2` | **Code Formatter** | Reviews code snippets, fixes syntax/indentation, adds docstrings, and outputs executable code blocks. |
-| `Ctrl + Alt + 3` | **Executive TL;DR** | Distills complex articles/documents into 2 concise, high-impact executive bullet points. |
 | `Esc` | **Exit Daemon** | Safely terminates background hotkey listeners. |
 
 ---
