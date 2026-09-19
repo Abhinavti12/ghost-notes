@@ -9,7 +9,7 @@
 
 The **Snapdragon® AI Lab Build & Present Challenge** calls for innovative on-device AI applications tailored specifically to Snapdragon-powered HP PCs. Everyday PC productivity suffers from cognitive fragmentation: professionals, students, and engineers frequently copy messy notes, confusing terminal traces, unformatted code, and disjointed research fragments into external browser-based AI chats. This breaks workflow momentum and exposes private data to cloud servers.
 
-**Ghost Notes** is an ambient, zero-latency, privacy-preserving clipboard transformer daemon. Running silently in the background, Ghost Notes monitors configurable global hotkeys (`Ctrl+Alt+1/2/3`), intercepts clipboard content, executes deterministic transformations using a quantized Small Language Model (SLM) on the **Qualcomm® Hexagon™ NPU**, and re-injects the formatted text into the system clipboard in sub-second time.
+**Ghost Notes** is an ambient, zero-latency, privacy-preserving clipboard transformer daemon. Running silently in the background, Ghost Notes monitors configurable global hotkeys (`Ctrl+Alt+1/2`), intercepts clipboard content, executes deterministic transformations using a quantized Small Language Model (SLM) on the **Qualcomm® Hexagon™ NPU**, and re-injects the formatted text into the system clipboard in sub-second time.
 
 ### Evaluation Rubric Alignment
 
