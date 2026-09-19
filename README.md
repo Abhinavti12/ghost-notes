@@ -1,7 +1,6 @@
 # GHOST NOTES: Ambient Intelligent Clipboard
 
 > **NPU-Accelerated Smart Transformer Daemon for Snapdragon®-Powered HP PCs**  
-> *Developed for the Snapdragon® AI Lab Build & Present Challenge*
 
 ---
 
@@ -9,7 +8,7 @@
 
 Everyday PC productivity suffers from cognitive fragmentation: professionals, students, and engineers frequently copy messy notes, confusing terminal traces, unformatted code, and disjointed research fragments into external browser-based AI chats. This context switching breaks momentum and exposes private data to cloud servers.
 
-**Ghost Notes** is an ambient, zero-latency, privacy-preserving clipboard transformer daemon. Running silently in the background, Ghost Notes monitors global hotkeys (`Ctrl+Alt+1/2/3`), intercepts clipboard content, executes deterministic transformations using a quantized Small Language Model (SLM) on the **Qualcomm® Hexagon™ NPU**, and re-injects formatted text back into system clipboard in sub-second time.
+**Ghost Notes** is an ambient, zero-latency, privacy-preserving clipboard transformer daemon. Running silently in the background, Ghost Notes monitors global hotkeys (`Ctrl+Alt+1/2`), intercepts clipboard content, executes deterministic transformations using a quantized Small Language Model (SLM) on the **Qualcomm® Hexagon™ NPU**, and re-injects formatted text back into system clipboard in sub-second time.
 
 ---
 
